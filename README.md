@@ -12,5 +12,4 @@ So, through the power of composer and the wonderful doctrine/dbal package you ca
 
 	cd quickie
 
-	
-
+	composer install
