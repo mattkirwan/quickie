@@ -13,3 +13,11 @@ So, through the power of composer and the wonderful doctrine/dbal package you ca
 	cd quickie
 
 	composer install
+
+At this point it would probably wise to remove the .git directory, initialise your own repo for your amazing script and commit your .lock file.
+
+...
+
+...
+
+...and i'm spent.
