@@ -1,0 +1,6 @@
+{
+	"require": {
+		"doctrine/dbal": "2.4.*@dev"
+	},
+	"minimum-stability": "dev"
+}
